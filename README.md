@@ -5,9 +5,9 @@
 
 ## Ссылки
 
-[GitHub Pages (меню)]().
+[GitHub Pages (меню)](https://garfy2.github.io/ra-router/#/).
 
-[GitHub Pages (CRUD)](/#/posts).
+[GitHub Pages (CRUD)](https://garfy2.github.io/ra-router/#/posts).
 
 [Репозиторий с backend](https://github.com/LiquidAssContainer/ra_router_backend).
 
